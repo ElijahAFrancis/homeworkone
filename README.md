@@ -1,2 +1,3 @@
 # homeworkone
-This is the homework for week one.
+
+## Homework for Week One
