@@ -11,4 +11,4 @@ Use the navigation links in the top right to navigate to different areas of the 
 https://elijahafrancis.github.io/homeworkone/
 
 ## Revisions
-Fixed Search Engine Optimization navigation link, added semantics HTML, and updated style.css to match HTML structure.
+Fixed Search Engine Optimization navigation link, added semantics HTML, and updated style.css to match HTML structure. Updated title, added alt attributes to image elements.
